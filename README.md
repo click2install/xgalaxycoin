@@ -58,7 +58,7 @@ During the execution of the script you have the opportunity to decide on a port 
 
 The easiest ports to choose would be 23058 for your first masternode, then 23060, 23062, 23064, etc. The RPC port will be chosen based on your port selection.
 
-At this stage the script auto detects the IP addresses of the server, if there is more than one address found, it will ask you which address to use, otherwise it will use the only address found without user input.
+At this stage the script auto detects the IP addresses of the server, if there is more than one address found, it will ask you which address to use, otherwise it will use the only address found without user input. 
 
 If you do setup multiple masternodes on a single VPS, make sure the VPS is capable of running more than one masternode or your masternode rewards will suffer. **You have been warned.**
 
