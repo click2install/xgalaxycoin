@@ -64,7 +64,7 @@ If you do setup multiple masternodes on a single VPS, make sure the VPS is capab
 
 Once you have setup the 2nd or more masternodes, use the output of the script for each masternode and follow the [steps above](https://github.com/click2install/xgalaxycoin#how-to-setup-your-masternode-with-this-script-and-a-cold-wallet-on-your-pc) in your wallet, where each new masternode is a new line in your `masternode.conf` file. **NOTE:** All the port numbers in your masternode.conf file will be 23058 or the wallet will not re-start after you save the config file.
 
-Note that multiple masternodes use only one instance of the `xgalaxyd` and `xgalaxy-cli` binary files located in `/usr/local/bin` and they each have their own configuration located in `/home/<username>/.xgalaxy` folder.
+Note that multiple masternodes use only one instance of the `xgalaxyd` and `xgalaxy-cli` binary files located in `/usr/local/bin` and they each have their own configuration located in `/home/<username>/.xgalaxycore` folder.
 
 &nbsp;
 
