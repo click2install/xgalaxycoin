@@ -1,0 +1,2 @@
+# xgalaxycoin
+xGalaxy masternode resources
