@@ -56,7 +56,7 @@ During the execution of the script you have the opportunity to decide on a port 
 
 **Important:** when installing more than one masternode, make sure the port number you choose is above 1024 and at least 2 greater than any other node you have running. It needs to be 2 as the masternode uses the port you enter and the masternode rpcserver uses the next highest port.
 
-The easiest ports to choose would be 23058 for your first masternode, then 23060, 23062, 23064, etc. The RPC port will be chosen based on your port selection.
+The easiest ports to choose would be 23058 for your first masternode, then 23060, 23062, 23064, etc. The RPC port will be chosen based on your port selection. 
 
 At this stage the script auto detects the IP addresses of the server, if there is more than one address found, it will ask you which address to use, otherwise it will use the only address found without user input. 
 
