@@ -17,7 +17,7 @@ This script will work alongside masternodes that were installed by other means p
 Donations for the creation and maintenance of this script are welcome at:
 &nbsp;
 
-XGCS: XWKZiMYsBfkrYDkxc5fQf3nD4iVmkDyt4e
+BTC: 13nBh4RwFFAK6e1NE7mcDm8aNfWCVm6yTk
 
 &nbsp;
 
