@@ -1,6 +1,6 @@
 # xGalaxy Coin
 
-Shell script to install a `xGalaxy Coin Masternode` on a Linux server running Ubuntu 16.04. Supports IPv4, IPv6 and multiple nodes on a single VPS.
+Shell script to install a `xGalaxy Coin Masternode` on a Linux server running Ubuntu 16.04. Supports IPv4, IPv6.
 
 
 ## Installation
@@ -50,7 +50,7 @@ You are now ready to configure your local wallet and finish the masternode setup
  &nbsp;
 
 ## Multiple master nodes on one server
-The script allows for multiple nodes to be setup on the same server, using the same IP address and different ports. It also allows for either IPv4 and/or IPv6 addresses to be used. 
+The script allows for multiple nodes to be setup on the same server. If you do want to do this, you will need to obtain additional IP addresses for your VPS as the xGalaxy masternode only allows for a single node per IP address.
 
 During the execution of the script you have the opportunity to decide on a port and rpc port to use for the node. Each node runs under are different user account which the script creates for you.
 
