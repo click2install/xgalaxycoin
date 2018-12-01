@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d) 
 
-DAEMON_ARCHIVE=${1:-"https://github.com/officialXGalaxy/XGalaxy/releases/download/1.0.0/XGalaxy-1.0-ubuntu16.tar.gz"}
+DAEMON_ARCHIVE=${1:-"https://github.com/officialXGalaxy/XGalaxy/releases/download/1.0.2/xGalaxy_1.0.2_ubuntu16.tar.gz"}
 ARCHIVE_STRIP=" --strip=1"
 DEFAULT_PORT=23058
 
